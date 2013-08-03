@@ -48,9 +48,9 @@
 		<folder external="Stages" disc="/Stage" create="true" />
 		
 		<!-- Save name change -->
-		<!--PAL--><memory offset="0x802F148C" value="4E6572534d425732" original="7769696D6A3264" />
-		<!--NTSC--><memory offset="0x802F118C" value="4E6572534d425732" original="7769696D6A3264" />
-		<!--JPN--><memory offset="0x802F0FAC" value="4E6572534d425732" original="7769696D6A3264" />
+		<!--PAL--><memory offset="0x802F148C" value="4e534c575f4431" original="7769696D6A3264" />
+		<!--NTSC--><memory offset="0x802F118C" value="4e534c575f4431" original="7769696D6A3264" />
+		<!--JPN--><memory offset="0x802F0FAC" value="4e534c575f4431" original="7769696D6A3264" />
 		
 		<!-- Inject Newer loader -->
 		<!--PAL--><memory offset="0x80328478" value="80001800" original="8015BC60" />
